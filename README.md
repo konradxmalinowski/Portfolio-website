@@ -46,11 +46,6 @@ Portfolio/
 
 ---
 
-## Live Demo
-**Coming Soon!** Stay tuned for the live link where you can see the portfolio in action.
-
----
-
 ## Getting Started
 
 Follow these steps to run the project locally:
@@ -69,13 +64,7 @@ Follow these steps to run the project locally:
    npm run dev
    ```
 4. Open your browser and navigate to `http://localhost:5173`.
-
----
-
-## Contributions
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
-
+5. 
 ---
 
 ## Contact
