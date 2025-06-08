@@ -1,20 +1,20 @@
-# 🚀 React Portfolio Website
+# React Portfolio Website
 
-Welcome to the **React Portfolio Website**! 🌟 This is a modern and dynamic personal portfolio built using React and Vite. Showcase your skills, projects, and experiences in a sleek and responsive design.
-
----
-
-## ✨ Features
-
-- **React Framework**: 🌀 Built with React for a seamless and scalable experience.
-- **Vite Bundler**: ⚡ Super fast build tool for modern web applications.
-- **Responsive Design**: 📱 Looks great on all devices—mobile, tablet, and desktop.
-- **Dynamic Components**: 🔄 Fully interactive and reusable React components.
-- **Optimized Performance**: 🚀 Efficient and fast-loading pages.
+Welcome to the **React Portfolio Website**! This is a modern and dynamic personal portfolio built using React and Vite. Showcase your skills, projects, and experiences in a sleek and responsive design.
 
 ---
 
-## 🛠️ Technologies Used
+## Features
+
+- **React Framework**: Built with React for a seamless and scalable experience.
+- **Vite Bundler**: Super fast build tool for modern web applications.
+- **Responsive Design**: Looks great on all devices—mobile, tablet, and desktop.
+- **Dynamic Components**: Fully interactive and reusable React components.
+- **Optimized Performance**: Efficient and fast-loading pages.
+
+---
+
+##  Technologies Used
 
 This project utilizes the following technologies:
 
@@ -26,7 +26,7 @@ This project utilizes the following technologies:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 Portfolio/
@@ -46,13 +46,12 @@ Portfolio/
 
 ---
 
-## 🚀 Live Demo
-
-🎉 **Coming Soon!** Stay tuned for the live link where you can see the portfolio in action.
+## Live Demo
+**Coming Soon!** Stay tuned for the live link where you can see the portfolio in action.
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
@@ -73,23 +72,23 @@ Follow these steps to run the project locally:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ---
 
-## 🌟 Contact
+## Contact
 
 Feel free to reach out to me:
 
-- 📧 Email: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
-- 💼 LinkedIn: [Konrad Malinowski](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
-- 🐦 Twitter: [@Konrad6580](https://x.com/Konrad6580)
+- Email: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
+- LinkedIn: [Konrad Malinowski](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
+- Twitter: [@Konrad6580](https://x.com/Konrad6580)
 
 ---
 
-## 📜 License
+## License
 ```
 MIT License
 
