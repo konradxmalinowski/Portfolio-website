@@ -2,7 +2,7 @@
 
 Welcome to the **React Portfolio Website**! This is a modern and dynamic personal portfolio built using React and Vite. Showcase your skills, projects, and experiences in a sleek and responsive design.
 
-
+<br>
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to the **React Portfolio Website**! This is a modern and dynamic persona
 - **Dynamic Components**: Fully interactive and reusable React components.
 - **Optimized Performance**: Efficient and fast-loading pages.
 
-
+<br>
 
 ##  Technologies Used
 
@@ -24,7 +24,7 @@ This project utilizes the following technologies:
 - **CSS Modules**: For scoped styling.
 - **ESLint**: For maintaining clean and error-free code.
 
-
+<br>
 
 ## Folder Structure
 
@@ -44,6 +44,7 @@ Portfolio/
 └── README.md         # Project documentation
 ```
 
+<br>
 
 
 ## Getting Started
@@ -64,10 +65,18 @@ Follow these steps to run the project locally:
    npm run dev
    ```
 4. Open your browser and navigate to `http://localhost:5173`.
-5. 
 
+<br>
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/aa6759a3-35f7-4981-98ef-4a1380824a68)
+![image](https://github.com/user-attachments/assets/4b65fc8b-c9b5-4d50-8758-3e691ea088c2)
+![image](https://github.com/user-attachments/assets/4e2a2f23-598a-43d9-9966-969ee37d37c7)
+
+
+
+<br>
 
 ## Contact
 
-For any inquiries or feedback:
- **Email**: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
+For any inquiries or feedback: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
