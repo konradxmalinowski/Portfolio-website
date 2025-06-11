@@ -6,7 +6,6 @@ const NAMES = [
   'CSS',
   'SASS',
   'Tailwind CSS',
-  'Bootstrap',
   'JavaScript',
   'Typescript',
   'React',
@@ -28,7 +27,6 @@ const IMAGES = [
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg',
   'https://img.icons8.com/color/200/tailwindcss.png',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg',
@@ -48,22 +46,21 @@ const IMAGES = [
 const LEVELS = [
   'Experienced', // HTML
   'Experienced', // CSS
-  'Experienced', // SASS
-  'Experienced', // Tailwind CSS
-  'Basics', // Bootstrap
+  'Beginner', // SASS
+  'Beginner', // Tailwind CSS
   'Experienced', // JavaScript
-  'Experienced', // TypeScript
+  'Beginner', // TypeScript
   'Experienced', // React
-  'Basics', // Python
-  'Basics', // C#
-  'Basics', // Selenium
+  'Beginner', // Python
+  'Beginner', // C#
+  'Beginner', // Selenium
   'Experienced', // MySQL
   'Experienced', // SQL
-  'Basics', // PHP
-  'Basics', // SQLite
-  'Basics', // Git
-  'Basics', // Figma
-  'Basics', // Postman
+  'Beginner', // PHP
+  'Beginner', // SQLite
+  'Beginner', // Git
+  'Beginner', // Figma
+  'Beginner', // Postman
   'Experienced', // Wordpress
 ];
 

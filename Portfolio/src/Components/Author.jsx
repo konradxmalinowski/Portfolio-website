@@ -36,7 +36,7 @@ const Author = ({ handleScrollIntoView }) => {
           apps❤️‍🔥
         </h1>
         <p className="job-type" aria-label="Author's job title">
-          Frontend Developer
+          Web Developer
         </p>
         <div aria-label="Author's social media links">
           <AuthorButton
