@@ -2,7 +2,7 @@
 
 Welcome to the **React Portfolio Website**! This is a modern and dynamic personal portfolio built using React and Vite. Showcase your skills, projects, and experiences in a sleek and responsive design.
 
----
+<br>
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to the **React Portfolio Website**! This is a modern and dynamic persona
 - **Dynamic Components**: Fully interactive and reusable React components.
 - **Optimized Performance**: Efficient and fast-loading pages.
 
----
+<br>
 
 ##  Technologies Used
 
@@ -24,7 +24,7 @@ This project utilizes the following technologies:
 - **CSS Modules**: For scoped styling.
 - **ESLint**: For maintaining clean and error-free code.
 
----
+<br>
 
 ## Folder Structure
 
@@ -44,7 +44,8 @@ Portfolio/
 └── README.md         # Project documentation
 ```
 
----
+<br>
+
 
 ## Getting Started
 
@@ -64,40 +65,18 @@ Follow these steps to run the project locally:
    npm run dev
    ```
 4. Open your browser and navigate to `http://localhost:5173`.
-5. 
----
+
+<br>
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/aa6759a3-35f7-4981-98ef-4a1380824a68)
+![image](https://github.com/user-attachments/assets/4b65fc8b-c9b5-4d50-8758-3e691ea088c2)
+![image](https://github.com/user-attachments/assets/4e2a2f23-598a-43d9-9966-969ee37d37c7)
+
+
+
+<br>
 
 ## Contact
 
-Feel free to reach out to me:
-
-- Email: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
-- LinkedIn: [Konrad Malinowski](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
-- Twitter: [@Konrad6580](https://x.com/Konrad6580)
-
----
-
-## License
-```
-MIT License
-
-Copyright (c) 2025 Konrad Malinowski
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+For any inquiries or feedback: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
