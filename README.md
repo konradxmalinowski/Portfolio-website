@@ -1,8 +1,4 @@
-# React Portfolio Website
-
-Welcome to the **React Portfolio Website**! This is a modern and dynamic personal portfolio built using React and Vite. Showcase your skills, projects, and experiences in a sleek and responsive design.
-
-<br>
+# Portfolio Website
 
 ## Features
 
