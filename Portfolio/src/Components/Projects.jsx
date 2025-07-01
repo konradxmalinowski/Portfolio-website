@@ -38,6 +38,7 @@ const Projects = ({ handleScrollIntoView }) => {
     <div
       className="projects-wrapper wrapper reveal"
       ref={ref}
+      id="projects"
       aria-label="Projects Section"
     >
       <section aria-label="Projects introduction">

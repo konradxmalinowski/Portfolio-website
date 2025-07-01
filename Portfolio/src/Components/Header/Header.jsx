@@ -9,7 +9,7 @@ export default function Header() {
   const headerItems = (
     <>
       <ListItem link="#top" content="About" />
-      <ListItem link="#web-apps" content="Projects" />
+      <ListItem link="#projects" content="Projects" />
       <ListItem link="#skills" content="Skills" />
     </>
   );
