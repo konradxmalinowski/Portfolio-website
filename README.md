@@ -65,9 +65,13 @@ Follow these steps to run the project locally:
 <br>
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/aa6759a3-35f7-4981-98ef-4a1380824a68)
-![image](https://github.com/user-attachments/assets/4b65fc8b-c9b5-4d50-8758-3e691ea088c2)
-![image](https://github.com/user-attachments/assets/4e2a2f23-598a-43d9-9966-969ee37d37c7)
+![image](https://github.com/user-attachments/assets/fbbe5fcd-95a8-4a45-ae50-1c969bf1df72)
+![image](https://github.com/user-attachments/assets/866d58d3-00ee-404d-a2b7-b6df13c9b8f0)
+![image](https://github.com/user-attachments/assets/09f33bd9-f5eb-4177-9ad6-70f2da39c2e3)
+![image](https://github.com/user-attachments/assets/69a715f5-e86e-4f85-b99d-37e58313f522)
+
+
+
 
 
 
