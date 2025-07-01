@@ -46,7 +46,7 @@ const Author = ({ handleScrollIntoView }) => {
           />
           <AuthorButton
             logo={linkedInLogo}
-            link="https://www.linkedin.com/in/konrad-malinowski-894a36323/"
+            link="https://www.linkedin.com/in/konradxmalinowski"
             name="LinkedIn"
           />
         </div>

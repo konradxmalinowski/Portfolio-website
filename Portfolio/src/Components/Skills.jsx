@@ -9,16 +9,14 @@ const NAMES = [
   'JavaScript',
   'Typescript',
   'React',
-  'Python',
-  'C#',
-  'Selenium',
-  'MySQL',
-  'SQL',
   'PHP',
-  'SQLite',
-  'Git',
-  'Figma',
+  'Java',
+  'Python',
+  'MySQL',
+  'SQL Server',
   'Postman',
+  'Figma',
+  'Git',
   'Wordpress',
 ];
 
@@ -30,16 +28,14 @@ const IMAGES = [
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg',
+  'https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg',
+  'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg',
   'https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg',
-  'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg',
-  'https://www.vectorlogo.zone/logos/figma/figma-icon.svg',
   'https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg',
+  'https://www.vectorlogo.zone/logos/figma/figma-icon.svg',
+  'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg',
 ];
 
@@ -47,20 +43,18 @@ const LEVELS = [
   'Experienced', // HTML
   'Experienced', // CSS
   'Beginner', // SASS
-  'Beginner', // Tailwind CSS
+  'Experienced', // Tailwind CSS
   'Experienced', // JavaScript
-  'Beginner', // TypeScript
+  'Intermediate', // TypeScript
   'Experienced', // React
+  'Intermediate', // PHP
+  'Beginner', // Java
   'Beginner', // Python
-  'Beginner', // C#
-  'Beginner', // Selenium
   'Experienced', // MySQL
-  'Experienced', // SQL
-  'Beginner', // PHP
-  'Beginner', // SQLite
-  'Beginner', // Git
-  'Beginner', // Figma
-  'Beginner', // Postman
+  'Beginner', // SQL Server
+  'Intermediate', // Postman
+  'Intermediate', // Figma
+  'Intermediate', // Git
   'Experienced', // Wordpress
 ];
 
@@ -69,20 +63,17 @@ const LINKS = [
   'https://developer.mozilla.org/en-US/docs/Web/CSS',
   'https://sass-lang.com',
   'https://tailwindcss.com/',
-  'https://getbootstrap.com/',
   'https://www.javascript.com',
   'https://www.typescriptlang.org',
   'https://reactjs.org',
-  'https://www.python.org/',
-  'https://learn.microsoft.com/en-us/dotnet/csharp/',
-  'https://www.selenium.dev/',
-  'https://www.mysql.com',
-  'https://www.w3schools.com/sql/',
   'https://www.php.net/',
-  'https://www.sqlite.org/index.html',
-  'https://git-scm.com',
-  'https://www.figma.com',
+  'https://www.java.com/',
+  'https://www.python.org/',
+  'https://www.mysql.com',
+  'https://learn.microsoft.com/en-us/sql/',
   'https://www.postman.com/',
+  'https://www.figma.com',
+  'https://git-scm.com',
   'https://wordpress.org',
 ];
 
