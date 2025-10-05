@@ -64,6 +64,7 @@ Follow these steps to run the project locally:
 
 <br>
 
+ <!--
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/fbbe5fcd-95a8-4a45-ae50-1c969bf1df72)
 ![image](https://github.com/user-attachments/assets/866d58d3-00ee-404d-a2b7-b6df13c9b8f0)
@@ -72,7 +73,7 @@ Follow these steps to run the project locally:
 
 
 
-
+-->
 
 
 <br>
