@@ -8,40 +8,42 @@ import Rates from './Rates.jsx';
 import './Portfolio.css';
 
 const Portfolio = () => {
-  const handleScrollIntoView = (ref) => {
-    const element = ref.current;
+  // const handleScrollIntoView = (ref) => {
+  //   const element = ref.current;
 
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            element.classList.add('active');
-            observer.unobserve(element);
-          }
-        });
-      },
-      {
-        rootMargin: '0px 0px -100px 0px',
-        threshold: 0.2,
-      }
-    );
+  //   const observer = new IntersectionObserver(
+  //     (entries) => {
+  //       entries.forEach((entry) => {
+  //         if (entry.isIntersecting) {
+  //           element.classList.add('active');
+  //           observer.unobserve(element);
+  //         }
+  //       });
+  //     },
+  //     {
+  //       rootMargin: '0px 0px -100px 0px',
+  //       threshold: 0.2,
+  //     }
+  //   );
 
-    if (element) {
-      observer.observe(element);
-    }
+  //   if (element) {
+  //     observer.observe(element);
+  //   }
 
-    return [element, observer];
-  };
+  //   return [element, observer];
+  // };
 
   return (
     <>
+      {/*
       <Header />
-      <Author handleScrollIntoView={handleScrollIntoView} />
+       <Author handleScrollIntoView={handleScrollIntoView} />
       <Projects handleScrollIntoView={handleScrollIntoView} />
       <Skills handleScrollIntoView={handleScrollIntoView} />
 
       <Rates handleScrollIntoView={handleScrollIntoView} />
-      <Footer handleScrollIntoView={handleScrollIntoView} />
+      <Footer handleScrollIntoView={handleScrollIntoView} /> */}
+      <p className="info">Website under construction. Stay tuned!</p>
     </>
   );
 };
